@@ -16,3 +16,15 @@ We currently support Android 14, with the latest security patches from Google.
 
 - [Telegram channel](https://t.me/horizondroid)
 - [Telegram group](https://t.me/HorizonDroidChat)
+
+- Credits:
+=======
+ * [**PixelOS**](https://github.com/PixelOS-Fourteen)
+ * [**CAF**](https://source.codeaurora.org)
+ * [**AOSP**](https://android.googlesource.com)
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**DroidX-UI**](https://github.com/DroidX-UI)
+ * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
+ * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
+ * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
+ * [**Evolution-X**](https://github.com/Evolution-X)
