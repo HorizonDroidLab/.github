@@ -1,34 +1,17 @@
-![Evolution X](https://raw.githubusercontent.com/Evolution-X/.github/main/EvoBanner.png)
+![HorizonDroid](https://raw.githubusercontent.com/HorizonDroidLab/.github/main/HorizonDroidBanner.png)
 
 Evolution X
 ===========
 
-[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)
+[![Download HorizonDroid](https://sourceforge.net/projects/horizondroid/files/)
 
-Welcome to Evolution X!
+Welcome to HorizonDroid!
 
-Evolution X allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
+HorizonDroid Base On Aosp and PixelOS allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 
-We currently support Android 13 (tiramisu branch) and Android 14 (udc branch), with the latest security patches from Google.
-
-### Beginner guide
-
-Visit these important repositories:
-
-- [Manifest](https://github.com/Evolution-X/manifest)
-- [Vendor](https://github.com/Evolution-X/vendor_evolution)
-- [Devices](https://github.com/Evolution-X-Devices)
-
-1. You may use [this](https://github.com/Evolution-X-Devices/device_xiaomi_raphael/commit/16fb4644fcfe3d2d73f27a8ef907451acf6d39e2) commit as a reference.
-2. Follow the intructions in the [manifest](https://github.com/Evolution-X/manifest) repo to initialize the working directory.
-3. Use the ```mka evolution``` command to start your build.
-
-Visit [this link](https://github.com/Evolution-X/manifest#applying-for-maintainership-of-a-device) for more information on how to apply as a maintainer.
+We currently support Android 14, with the latest security patches from Google.
 
 ### Important Links
 
-- [Website](https://evolution-x.org)
-- [Telegram channel](https://t.me/EvolutionXOfficial)
-- [Telegram group](https://t.me/EvolutionX)
-- [Supported devices](https://github.com/Evolution-X-Devices/official_devices/tree/master/builds)
-- [Changelogs](https://github.com/Evolution-X-Devices/official_devices/tree/master/changelogs)
+- [Telegram channel](https://t.me/horizondroid)
+- [Telegram group](https://t.me/HorizonDroidChat)
