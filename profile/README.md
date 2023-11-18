@@ -16,8 +16,8 @@ We currently support Android 14, with the latest security patches from Google.
 - [Telegram channel](https://t.me/horizondroid)
 - [Telegram group](https://t.me/HorizonDroidChat)
 
+-----------------------------------------------------------------------------
 - Credits:
-=======
  * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**CAF**](https://source.codeaurora.org)
  * [**AOSP**](https://android.googlesource.com)
