@@ -3,7 +3,7 @@
 HorizonDroid
 ===========
 
-[![Download HorizonDroid](https://sourceforge.net/projects/horizondroid/files/)
+[![Download HorizonDroid] (https://sourceforge.net/projects/horizondroid/files/)
 
 Welcome to HorizonDroid!
 
