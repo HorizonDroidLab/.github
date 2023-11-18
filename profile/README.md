@@ -1,6 +1,6 @@
-![HorizonDroid](https://raw.githubusercontent.com/HorizonDroidLab/.github/main/HorizonDroidBanner.png)
+![HorizonDroid](https://github.com/HorizonDroidLab/.github/blob/main/HorizonDroidBanner.png)
 
-Evolution X
+HorizonDroid
 ===========
 
 [![Download HorizonDroid](https://sourceforge.net/projects/horizondroid/files/)
