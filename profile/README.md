@@ -25,5 +25,4 @@ We currently support Android 14, with the latest security patches from Google.
  * [**DroidX-UI**](https://github.com/DroidX-UI)
  * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
  * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
- * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
  * [**Evolution-X**](https://github.com/Evolution-X)
