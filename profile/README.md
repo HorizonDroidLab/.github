@@ -3,7 +3,8 @@
 HorizonDroid
 ===========
 
-[![Download HorizonDroid] (https://sourceforge.net/projects/horizondroid/files/)
+[![Download horizondroid](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/horizondroid/files/latest/download)
+[![Download horizondroid](https://img.shields.io/sourceforge/dt/horizondroid.svg)](https://sourceforge.net/projects/horizondroid/files/latest/download)
 
 Welcome to HorizonDroid!
 
