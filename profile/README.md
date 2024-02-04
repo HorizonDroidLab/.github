@@ -1,4 +1,4 @@
-![HorizonDroid](https://github.com/HorizonDroidLab/.github/blob/main/profile/Update%20new%20logo.png) 
+![HorizonDroid](https://github.com/zamkara/.github/blob/main/horizon.svg) 
 
 HorizonDroid
 ===========
