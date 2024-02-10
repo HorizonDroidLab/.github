@@ -15,7 +15,6 @@ We currently support Android 14, with the latest security patches from Google.
 - HorizonDroid A14 (Ready)
 repo init -u https://github.com/HorizonDroidLab/manifest.git -b 14 --git-lfs
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
------------------------------------------------------------------------------
 ```
 
 [More build information](https://github.com/HorizonDroidLab/manifest)
