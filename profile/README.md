@@ -18,6 +18,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 [More build information](https://github.com/HorizonDroidLab/manifest)
 
+-----------------------------------------------------------------------------
 ### Important Links
 
 - [Telegram channel](https://t.me/horizondroid)
