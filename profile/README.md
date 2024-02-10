@@ -26,6 +26,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 -----------------------------------------------------------------------------
 ![HorizonDroid](https://github.com/zamkara/.github/blob/main/credit.svg)
+ Special thanks to All ROM Developers in this community
  * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**CAF**](https://source.codeaurora.org)
  * [**AOSP**](https://android.googlesource.com)
@@ -35,4 +36,3 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
  * [**Evolution-X**](https://github.com/Evolution-X)
 
 -----------------------------------------------------------------------------
- Special thanks to All ROM Developers in this community
