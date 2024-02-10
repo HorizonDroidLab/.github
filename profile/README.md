@@ -8,8 +8,15 @@ HorizonDroid
 Welcome to HorizonDroid!
 
 HorizonDroid Base On Aosp and PixelOS allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
-
 We currently support Android 14, with the latest security patches from Google.
+
+### Quick Source Initialization ###
+```bash
+- HorizonDroid A14 (Ready)
+repo init -u https://github.com/HorizonDroidLab/manifest.git -b 14 --git-lfs
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+
+[More build information](https://github.com/HorizonDroidLab/manifest)
 
 ### Important Links
 
@@ -24,5 +31,7 @@ We currently support Android 14, with the latest security patches from Google.
  * [**LineageOS**](https://github.com/LineageOS)
  * [**DroidX-UI**](https://github.com/DroidX-UI)
  * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
- * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
  * [**Evolution-X**](https://github.com/Evolution-X)
+
+-----------------------------------------------------------------------------
+ Special thanks to All ROM Developers in this community
