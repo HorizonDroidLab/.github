@@ -10,6 +10,20 @@ Welcome to HorizonDroid!
 HorizonDroid Base On Aosp and PixelOS allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 We currently support Android 14, with the latest security patches from Google.
 
+<p align="center">
+<img src="https://github.com/ryzenforce990/ryzenforce990/blob/main/20240210_231505.png" />
+</p>
+
+HorizonLabs:
+------------------------
+
+**HorizonLabs** Is The Feature Centre of **HorizonDroidLab**, This Tab Contains All The Features / Tweaks Which Are Added To HorizonDroidLab.
+Inside **HorizonLabs** U can find All Your Needed Features.
+
+Credits:
+-------
+ **HorizonDroid Team**
+
 ### Quick Source Initialization ###
 ```bash
 - HorizonDroid A14 (Ready)
