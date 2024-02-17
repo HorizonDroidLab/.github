@@ -17,7 +17,7 @@ We currently support Android 14, with the latest security patches from Google.
 HorizonLabs:
 ------------------------
 
-**HorizonLabs** Is the feature centre of **HorizonDroidLab**, this tab contains all the features / tweaks which are added to HorizonDroidLab.
+**HorizonLabs** is the feature centre of **HorizonDroidLab**, this tab contains all the features / tweaks which are added to HorizonDroidLab.
 Inside **HorizonLabs**, you can find all your needed features.
 
 Credits:
