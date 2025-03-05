@@ -2,8 +2,6 @@
 HorizonDroid
 ===========
 
-[![Download horizondroid](https://img.shields.io/sourceforge/dt/horizondroid.svg)](https://sourceforge.net/projects/horizondroid/files/latest/download)
-
 Welcome to HorizonDroid!
 
 HorizonDroid is based on AOSP and PixelOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
