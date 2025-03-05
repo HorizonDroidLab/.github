@@ -1,4 +1,3 @@
-![HorizonDroid](https://github.com/zamkara/.github/blob/main/horizon.svg) 
 
 HorizonDroid
 ===========
@@ -26,8 +25,8 @@ Credits:
 
 ### Quick Source Initialization ###
 ```bash
-- HorizonDroid A14 (Ready)
-repo init -u https://github.com/HorizonDroidLab/manifest.git -b 14 --git-lfs
+- HorizonDroid A15 (Wip)
+repo init -u https://github.com/HorizonDroidLab/manifest.git -b fifteen --git-lfs
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
@@ -39,7 +38,6 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 - [Telegram group](https://t.me/HorizonDroidChat)
 
 -----------------------------------------------------------------------------
-![HorizonDroid](https://github.com/zamkara/.github/blob/main/credit.svg)
  Special thanks to All ROM Developers in this community
  * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**CLO**](https://git.codelinaro.org)
