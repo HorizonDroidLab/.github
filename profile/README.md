@@ -2,6 +2,8 @@
 HorizonDroid
 ===========
 
+![HorizonBanner](../horizon.svg)
+
 Welcome to HorizonDroid!
 
 HorizonDroid is based on AOSP and PixelOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
@@ -36,6 +38,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 - [Telegram group](https://t.me/HorizonDroidChat)
 
 -----------------------------------------------------------------------------
+![CreditsImg](../credit.svg)
  Special thanks to All ROM Developers in this community
  * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**CLO**](https://git.codelinaro.org)
