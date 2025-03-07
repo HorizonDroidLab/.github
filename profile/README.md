@@ -25,7 +25,7 @@ Credits:
 
 ### Quick Source Initialization ###
 ```bash
-- HorizonDroid A15 (Wip)
+- HorizonDroid A15 (Ready)
 repo init -u https://github.com/HorizonDroidLab/manifest.git -b fifteen --git-lfs
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
