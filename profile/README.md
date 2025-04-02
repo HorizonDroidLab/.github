@@ -2,7 +2,7 @@
 HorizonDroid
 ===========
 
-![HorizonBanner](../horizon.svg)
+![**HorizonBanner**](../horizon.svg)
 
 Welcome to HorizonDroid!
 
@@ -33,10 +33,10 @@ mka horizon
 
 [More build information](https://github.com/HorizonDroidLab/manifest)
 
-### Important Links
+### Official Support Group & Channel
 
-- [Telegram channel](https://t.me/horizondroid)
-- [Telegram group](https://t.me/HorizonDroidChat)
+* [**Telegram Channel**](https://t.me/horizondroid)
+* [**Telegram Group**](https://t.me/HorizonDroidChat)
 
 -----------------------------------------------------------------------------
 ![CreditsImg](../credit.svg)
